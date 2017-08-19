@@ -13,7 +13,7 @@ Jupyter Notebook Curriculum
 ## Jupyter Javasript
 
 - Install Javascript in Jupyter
-- Hellow World
+- Hello World
 - Javascript Fundamental in Jupyter
 - Javascript Plotly
 - Stats Analysis
@@ -22,6 +22,12 @@ Jupyter Notebook Curriculum
 - Decision Tree
 
 ## Jupyter Golang
+
+- Install Golang in Jupyter
+- Fundamental
+- Data Pull & Access
+- Visualization
+- Data Scraping
 
 ## Jupyter Python
 
